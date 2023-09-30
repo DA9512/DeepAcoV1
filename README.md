@@ -205,7 +205,6 @@ If you have any questions, feel free to contact Long Pham ([phlong@skku.edu](phl
 - Conda:
 Missing deepACO annotation file and 1 library belonging to DeepACO project management board in private mode so cannot be used
 <img>![Alt text](image.png)<img>
-<img>![Alt text](image-1.png)<img>
 Missing pretrained models so can not run the inference code:
 <img>![Alt text](image-2.png)<img>
 <img>![Alt text](image-3.png)<img>
