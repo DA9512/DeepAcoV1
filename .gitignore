@@ -1,0 +1,15 @@
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+*.pt
+*.pth
+src/aic/pretrained/
+/data/aic22retail/test_a/
+/data/aic22retail/test_b/
+/data/aic22retail/output/
